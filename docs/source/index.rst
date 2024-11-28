@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+FOR88.NOW - WEBSITE ĐĂNG NHẬP NHÀ CÁI FOR88 CHÍNH THỨC | UPDATE MỚI T12
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`for88 <https://for88.now/>`_ là nhà cái trực tuyến chính thức đi vào hoạt động từ năm 2010 và được 2 cơ quan lớn có thẩm quyền là MGA - PAGCOR cấp giấy phép hợp pháp không lâu sau đó. Về mức độ an toàn thông tin, đơn vị hiện đang áp dụng công nghệ bảo mật cấp cao SSL-128 bit vào hệ thống nhằm đánh bay mọi nguồn xâm nhập trái phép từ các đối tượng hacker. Hơn thế nữa, với kho game khổng lồ có hơn 300+ các trò chơi như game bài, casino, cá cược thể thao, đá gà, xổ số lô đề,... hứa hẹn for88.now sẽ là sân chơi cá cược nóng bỏng nhất mà bet thủ nhất định phải trải nghiệm năm nay.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông Tin Liên Hệ:
 
-.. note::
+Website: https://for88.now/
 
-   This project is under active development.
+Số Điện Thoại: 0396547661
 
-Contents
---------
+Email: for88now@gmail.com
 
-.. toctree::
+Địa Chỉ: 221 Đ. La Thành, Chợ Dừa, Đống Đa, Hà Nội, Việt Nam
 
-   usage
-   api
+#for88 #for88_now
